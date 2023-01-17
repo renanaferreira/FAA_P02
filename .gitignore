@@ -151,9 +151,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-intel-image-classification.zip
-seg_test/*
-seg_train/*
+dataset.zip
+dataset/*
 
 
 
